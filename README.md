@@ -19,26 +19,6 @@
 
 ## Acknowledgements
 
-Thanks for these awesome resources that were used during the development of the **Amazing GitHub template**:
+While they may not be all implemented(yet?). All of these projects/repos were great inspiration or direct sources!:
 
-- <https://github.com/cookiecutter/cookiecutter>
-- <https://github.github.com/gfm/>
-- <https://tom.preston-werner.com/2010/08/23/readme-driven-development.html>
-- <https://changelog.com/posts/top-ten-reasons-why-i-wont-use-your-open-source-project>
-- <https://thoughtbot.com/blog/how-to-write-a-great-readme>
-- <https://www.makeareadme.com>
-- <https://github.com/noffle/art-of-readme>
-- <https://github.com/noffle/common-readme>
-- <https://github.com/RichardLitt/standard-readme>
-- <https://github.com/matiassingers/awesome-readme>
-- <https://github.com/LappleApple/feedmereadmes>
-- <https://github.com/othneildrew/Best-README-Template>
-- <https://github.com/mhucka/readmine>
-- <https://github.com/badges/shields>
-- <https://github.com/cjolowicz/cookiecutter-hypermodern-python>
-- <https://github.com/stevemao/github-issue-templates>
-- <https://github.com/devspace/awesome-github-templates>
-- <https://github.com/cezaraugusto/github-template-guidelines>
-- <https://github.com/frenck?tab=repositories>
-- <https://docs.github.com/en/discussions/quickstart>
-- <https://docs.github.com/en/actions>
+- <https://github.com/Tatz1337/pandas>
