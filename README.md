@@ -21,16 +21,16 @@
 
 While they may not be all implemented(yet?). All of these projects/repos were great references or direct sources!
 
-[Pandas](https://github.com/pandas-dev/pandas) <br>
-[TensorFlow](https://github.com/tensorflow/tensorflow) <br>
-[Scrapy](https://github.com/scrapy/scrapy) <br>
-[Keras](https://github.com/keras-team/keras) <br>
+[Pandas](https://github.com/pandas-dev/pandas) :sparkling_heart:<br>
+[TensorFlow](https://github.com/tensorflow/tensorflow) :sparkling_heart:<br>
+[Scrapy](https://github.com/scrapy/scrapy) :sparkling_heart:<br>
+[Keras](https://github.com/keras-team/keras) :sparkling_heart:<br>
 [Freqtrade](https://github.com/freqtrade/freqtrade) <br>
 [ddia](https://github.com/Vonng/ddia) <br>
-[flask](https://github.com/pallets/flask) <br>
+[flask](https://github.com/pallets/flask) :sparkling_heart:<br>
 [DJango](https://github.com/vitalik/django-ninja) <br>
 [Python AI Assistant](https://github.com/ggeop/Python-ai-assistant) <br>
 [Face Recognition](https://github.com/ageitgey/face_recognition) <br>
-[ImageAI](https://github.com/OlafenwaMoses/ImageAI) <br>
+[ImageAI](https://github.com/OlafenwaMoses/ImageAI) :sparkling_heart:<br>
 [AIORTC](https://github.com/aiortc/aiortc) <br>
 
