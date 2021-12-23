@@ -6,12 +6,12 @@
 
 <div align="center">
   Roxx-IO - The Smart Artist AI!
-  <br />
-  <br />
+  <br/>
+  <br/>
 </div>
 
 <div align="center">
-<br />
+<br/>
 
 [![license](https://img.shields.io/github/license/dec0dOS/amazing-github-template.svg?style=flat-square)](LICENSE) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Tatz1337/Roxxio?color=%23ff0000) ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/Tatz1337/Roxxio)
 
@@ -19,6 +19,6 @@
 
 ## Acknowledgements
 
-While they may not be all implemented(yet?). All of these projects/repos were great inspiration or direct sources!:
+While they may not be all implemented(yet?). All of these projects/repos were great inspiration or direct sources!
 
 [Pandas](https://github.com/pandas-dev/pandas)
