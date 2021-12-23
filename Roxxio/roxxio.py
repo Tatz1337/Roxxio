@@ -20,6 +20,13 @@ import flask
 print("Imported Flask!")
 import imageai
 print("Imported ImageAI!")
+import ctypes
+print("Imported CTypes!")
+ctypes.windll.kernel32.SetConsoleTitleW("Roxx-IO")
+name = "Roxx-IO"
+
+
+
 with open('roxlogo.txt', 'r') as f:
     for line in f:
         print(line.rstrip())
@@ -28,3 +35,6 @@ print("Standing by for your command!")
 time.sleep(5)
 
 comd = input("What can I do for you? - ")
+
+if comd in ['wru', "who are you", "who are you?", "who are ya?", "who are ya"]: 
+	print ("I am " + name + "." + "    ^.^")
