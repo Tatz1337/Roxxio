@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://github.com/dec0dOS/amazing-github-template">
+  <a href="#">
     <img src="logo2.png" alt="Logo" width="125" height="125">
   </a>
 </h1>
