@@ -21,16 +21,16 @@
 
 While they may not be all implemented(yet?). All of these projects/repos were great references or direct sources!
 
-[Pandas](https://github.com/pandas-dev/pandas)
-[TensorFlow](https://github.com/tensorflow/tensorflow)
-[Scrapy](https://github.com/scrapy/scrapy)
-[Keras](https://github.com/keras-team/keras)
-[Freqtrade](https://github.com/freqtrade/freqtrade)
-[ddia](https://github.com/Vonng/ddia)
-[flask](https://github.com/pallets/flask)
-[DJango](https://github.com/vitalik/django-ninja)
-[Python AI Assistant](https://github.com/ggeop/Python-ai-assistant)
-[Face Recognition](https://github.com/ageitgey/face_recognition)
-[ImageAI](https://github.com/OlafenwaMoses/ImageAI)
-[AIORTC](https://github.com/aiortc/aiortc)
+[Pandas](https://github.com/pandas-dev/pandas) <br>
+[TensorFlow](https://github.com/tensorflow/tensorflow) <br>
+[Scrapy](https://github.com/scrapy/scrapy) <br>
+[Keras](https://github.com/keras-team/keras) <br>
+[Freqtrade](https://github.com/freqtrade/freqtrade) <br>
+[ddia](https://github.com/Vonng/ddia) <br>
+[flask](https://github.com/pallets/flask) <br>
+[DJango](https://github.com/vitalik/django-ninja) <br>
+[Python AI Assistant](https://github.com/ggeop/Python-ai-assistant) <br>
+[Face Recognition](https://github.com/ageitgey/face_recognition) <br>
+[ImageAI](https://github.com/OlafenwaMoses/ImageAI) <br>
+[AIORTC](https://github.com/aiortc/aiortc) <br>
 
