@@ -21,4 +21,4 @@
 
 While they may not be all implemented(yet?). All of these projects/repos were great inspiration or direct sources!:
 
-- <https://github.com/Tatz1337/pandas>
+- <https://github.com/pandas-dev/pandas>
