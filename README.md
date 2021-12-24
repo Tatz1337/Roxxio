@@ -17,10 +17,18 @@
 
 </div>
 
+## Dependencies 
+- gtts 
+- BytesIO
+- playsound
+- colorama
+- numpy
+- ctypes
+
+
 ## Acknowledgements 
 
 While they may not be all implemented(yet?). All of these projects/repos were great references or direct sources!
-
 [Pandas](https://github.com/pandas-dev/pandas) :sparkling_heart:<br>
 [TensorFlow](https://github.com/tensorflow/tensorflow) :sparkling_heart:<br>
 [Scrapy](https://github.com/scrapy/scrapy) :sparkling_heart:<br>
