@@ -16,6 +16,26 @@
 [![license](https://img.shields.io/github/license/dec0dOS/amazing-github-template.svg?style=flat-square)](LICENSE) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Tatz1337/Roxxio?color=%23ff0000) ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/Tatz1337/Roxxio) ![Lines of code](https://img.shields.io/tokei/lines/github/tatz1337/roxxio) <br> ![GitHub labels](https://img.shields.io/github/labels/tatz1337/Roxxio/Help%20Wanted)
 </div>
 
+
+
+  ## TO DO / IDEAS
+ 
+- [ ] Implement Web-Scraping Functionality 
+- [ ] Figure out a less annoying (and an off button for it) text to speech 
+- [ ] GUI/Web Interfacing 
+- [ ] Commands over IRC
+- [ ] Make splash screen...smaller.
+- [ ] Machine Learning to learn what *art* consists of 
+- [ ] Persistent Memory of Scraped Art
+- [ ] Quick Restart Option
+- [ ] Publish Dependencies on README
+- [ ] Time Sync 
+- [ ] Discord Bot Integration 
+- [ ] Image Distillation 
+- [ ] Facial Recognition Implementation
+- [ ] ImageAI implementation 
+
+
 ## Acknowledgements
 
 While they may not be all implemented(yet?). All of these projects/repos were great references or direct sources!
