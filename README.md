@@ -15,7 +15,6 @@
 </div>
 
 ## Acknowledgements
-## Acknowledgements 
 
 While they may not be all implemented(yet?). All of these projects/repos were great references or direct sources!
 
