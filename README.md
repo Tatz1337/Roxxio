@@ -13,7 +13,7 @@
 
 </br>
 
-[![license](https://img.shields.io/github/license/dec0dOS/amazing-github-template.svg?style=flat-square)](LICENSE) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Tatz1337/Roxxio?color=%23ff0000) ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/Tatz1337/Roxxio) ![Lines of code](https://img.shields.io/tokei/lines/github/Tatz1337/Roxxio?logo=notepadplusplus) <br> ![GitHub labels](https://img.shields.io/github/labels/tatz1337/Roxxio/Help%20Wanted)
+[![license](https://img.shields.io/github/license/dec0dOS/amazing-github-template.svg?style=flat-square)](LICENSE) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Tatz1337/Roxxio?color=%23ff0000) ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/Tatz1337/Roxxio) ![Lines of code](https://img.shields.io/tokei/lines/github/tatz1337/roxxio) <br> ![GitHub labels](https://img.shields.io/github/labels/tatz1337/Roxxio/Help%20Wanted)
 </div>
 
 ## Acknowledgements
