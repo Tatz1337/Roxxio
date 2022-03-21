@@ -6,6 +6,7 @@
 <div align="center">
   Roxx-IO - The Smart Artist AI!
   <br/>
+  (currently on hold due to IRL business. Sorry!) 
   <br/>
 </div>
 <div align="center">
